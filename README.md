@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://roma-lucky.github.io/rsschool-cv/cv
+# https://Roma-lucky.github.io/rsschool-cv/index.html
